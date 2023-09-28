@@ -1,5 +1,5 @@
 # RimeEmoji
-Automatically generated text-emoji pair givem rime-ice emoji.txt
+Automatically generated text-emoji pair given rime-ice emoji.txt
 
 please check this issue.
 https://github.com/iDvel/rime-ice/issues/456#issue-1868783497
